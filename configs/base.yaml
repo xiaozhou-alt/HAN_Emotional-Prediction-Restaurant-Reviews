@@ -1,0 +1,18 @@
+data:
+  raw_path: "data/ratings.csv"
+  processed_dir: "data/processed/"
+  max_sentences: 10
+  max_words: 20
+  vocab_size: 20000
+
+model:
+  embed_dim: 300
+  word_hidden_dim: 128
+  sentence_hidden_dim: 128
+  dropout: 0.5
+
+training:
+  batch_size: 32
+  epochs: 10
+  lr: 0.001
+  test_size: 0.2
