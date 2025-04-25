@@ -33,6 +33,14 @@
 └── train.py                  # 主训练脚本
 ```
 
+数据集词云展示：
+
+![wordcloud](./img/wordcloud.png)
+
+环境、口味、服务与总评分相关的桑基图如下所示：
+
+![sankey](./img/sankey.png)
+
 ## 快速开始：
 
 根据你自己的data文件夹格式更改 base.yaml 配置文件中的路径参数和训练参数
