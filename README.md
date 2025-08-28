@@ -86,6 +86,7 @@ python predict.py
 ![predict](./img/predict.png)
 
 
+更多信息请关注我的博客CSDN:[基于HAN的餐厅评价情感分析](https://blog.csdn.net/soejjdiwjssundo/article/details/147373909)
 
 
 
